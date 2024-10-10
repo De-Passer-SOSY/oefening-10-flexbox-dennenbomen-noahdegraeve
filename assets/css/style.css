@@ -10,5 +10,8 @@ font{
 }
 
 .treeContainer >article{
-
+    width: 70%;
+    box-shadow: 5px 10px black;
+    text-align: center;
+    padding: 10px;
 }
