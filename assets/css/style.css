@@ -2,4 +2,13 @@ font{
     font-family: "Afacad Flux", sans-serif;
 
 }
+.treeContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
 
+.treeContainer >article{
+
+}
